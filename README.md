@@ -14,6 +14,15 @@ Being my first project in adding WiFi to a device, I got caught in plenty of hur
 ## The ESP8266
 Once I hooked the ESP8266 up to the programming board, things become much easier! I was able to plug the USB port into my machine, no drivers required, COM port was there, and I could load up a basic program!
 
+### Programming board
+Find one from AliExpress, search for "esp8266 test frame burner"
+
+### Arduino IDE
+1. Download Arduino IDE.
+2. Open you IDE and click on "File -> Preferences".
+3. In  "Aditional Boards Manager URLs" add this line and click on "OK": http://arduino.esp8266.com/stable/package_esp8266com_index.json
+4. Go to "Tools -> Board -> Boards Manager", type "ESP8266" and install it.
+5. Go againt to "Tools -> Board" and select "Generic ESP8266 Module".
 
 
 ## Badges
@@ -42,7 +51,7 @@ For people who want to make changes to your project, it's helpful to have some d
 You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 ## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+https://help.ubidots.com/en/articles/928408-program-the-esp8266-with-the-arduino-ide-in-3-simple-steps
 
 ## License
 For open source projects, say how it is licensed.
