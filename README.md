@@ -3,8 +3,13 @@
 ## Name
 Controlling the Roomba 600 series with Home Automation
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+## Introduction
+I was lucky enough to be donated a Roomba 630, and while this old robot does a great job of cleaning, it has no smarts! Of course I could actually go out and buy one with thousands of sensors and Wifi, but where is the fun if you can't hack it yourself?
+
+Being my first project in adding WiFi to a device, I got caught in plenty of hurdles. I found a number of articles for programming an ESP8266 showing a breadboard, a handful of components and jumper cables. I proceeded to purchase a number of items from a local supplier including an ESP-01 ESP8266, a USB FTDI USBto TTL Serial Adapter, a breadboard power supply and components. I spent hours with this board trying to get the AT commands to work. A lot of articles assume you have some sort of knowledge of how to program an ESP8266. It wasn't until a friend lent me an ESP programming board and pointed me to the Arduino IDE that I finally figured a few things out.
+
+1. You have no idea what firmware might arrive on your ESP8266
+2. Invest in an ESP programming board, it will save you hours of sanity!
 
 ## Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
