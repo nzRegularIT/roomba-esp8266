@@ -1,0 +1,13 @@
+# Roomba
+mqtt:
+  vacuum:
+    - name: Roomba
+      schema: state
+      command_topic: "roomba/commands"
+      retain: true
+      state_topic: "roomba/state"
+      supported_features:
+        - start
+        - stop
+        - return_home
+        - battery
