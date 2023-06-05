@@ -30,23 +30,21 @@ Find one from AliExpress, search for "esp8266 test frame burner"
 2. Install MQTT
 
 ## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
 
 ## Authors and acknowledgment
-https://help.ubidots.com/en/articles/928408-program-the-esp8266-with-the-arduino-ide-in-3-simple-steps
+- https://help.ubidots.com/en/articles/928408-program-the-esp8266-with-the-arduino-ide-in-3-simple-steps
+- https://github.com/thehookup/MQTT-Roomba-ESP01/blob/master/schematic.JPG
+- https://www.crc.id.au/hacking-the-roomba-600/
+- https://git.crc.id.au/netwiz/ESP8266_Code/src/branch/master/Roomba
+- https://www.youtube.com/watch?v=t2NgA8qYcFI
+- https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ
+- [Roomba OI Document](https://cfpm.org/~peter/bfz/iRobot_Roomba_500_Open_Interface_Spec.pdf)
+- https://www.instructables.com/Getting-Started-With-the-ESP8266-ESP-01/
+- https://www.instructables.com/How-to-use-the-ESP8266-01-pins/
+- https://www.instructables.com/Program-ESP01-Using-FTDI/
+- https://www.allaboutcircuits.com/projects/breadboard-and-program-an-esp-01-circuit-with-the-arduino-ide/
+- https://www.allaboutcircuits.com/projects/flashing-the-ESP-01-firmware-to-SDK-v2.0.0-is-easier-now/
 
 ## License
 For open source projects, say how it is licensed.
